@@ -1,9 +1,9 @@
 ### Hi there, I'm Mahesh
 
 ## About ME!
-- 🔭 I’m currently working on an [DevOps Automation Project]!
-- 🌱 I’m currently learning everything 😉
-- 👯 I’m looking to get a finer understanding on DevOps Concepts.
+- 🔭 currently working on an [DevOps Automation Project]!
+- 🌱 learning everything 😉
+- 👯 looking to get a finer understanding on DevOps Concepts.
 - 🥅 2020 Goals: Kaizen❄
 - ⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🚗
 
