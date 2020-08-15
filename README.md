@@ -13,7 +13,7 @@
 [<img align="left" alt="Mahesh's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mahesh's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mahesh's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Mahesh's | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg"/>][discord]
 <br />
 <br />
 
@@ -49,3 +49,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [twitter]: https://twitter.com/mgp_09
 [instagram]: https://instagram.com/maheshgprasad
 [linkedin]: https://linkedin.com/in/mahesh-guruprasad-8a633439
+[discord]: mgp09#6618
