@@ -1,11 +1,11 @@
 ### Hi there, I'm Mahesh
 
 ## About ME!
-- 🔭 currently working on a DevOps Project
-- 🌱 learning everything 🐾
-- 👯 looking to get a finer understanding on DevOps Concepts.
-- 🥅 2020 Goals: Kaizen❄
-- ⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🏎
+🔭 currently working on a DevOps Project
+🌱 learning everything 🐾
+👯 looking to get a finer understanding on DevOps Concepts.
+🥅 2020 Goals: Kaizen❄
+⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🏎
 
 ### 📱 Connect with me:
 
