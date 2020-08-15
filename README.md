@@ -29,8 +29,16 @@
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"/>
 <img align="left" alt="Jenkins" width="26px" src="https://avatars0.githubusercontent.com/u/107424?s=200&v=4"/>
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-<img align="left" alt="Kubernetes" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
+
+<br />
+<br />
+
+### 🌥 Cloud Platforms
+
+<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4"/>
+<img align="left" alt="Microsoft Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"/>
 
 <br />
 <br />
