@@ -5,7 +5,7 @@
 - 🌱 learning everything 🐾
 - 👯 looking to get a finer understanding on DevOps Concepts.
 - 🥅 2020 Goals: Kaizen❄
-- ⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🏎.
+- ⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🏎 and a backyard mechanic 
 - 🌈 I try to incorporate the best practices of the automotive world in all of my projects.
 
 ### 📱 Connect with me:
