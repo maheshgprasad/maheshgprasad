@@ -3,8 +3,8 @@
 ## About ME!
 - 🔭 currently working on a DevOps Project
 - 🌱 learning everything 🐾
-- 👯 looking to get a finer understanding on DevOps Concepts.
-- 🥅 2020 Goals: Kaizen❄
+- 👯 DevOps 
+- 🥅 Goals: Kaizen❄
 - ⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🏎 and a backyard mechanic 
 - 🌈 I try to incorporate the best practices of the automotive world in all of my projects.
 
