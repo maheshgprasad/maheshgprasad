@@ -1,11 +1,11 @@
 ### Hi there, I'm Mahesh
-DevOps Engineer at IBM. Obtained my Post Graduate Diploma in DevOps from Caltech.
+DevOps Engineer.
 
 ## About ME!
 - 🔭 currently working on enhancing my skills
 - 🌱 learning everything 🐾
 - 🥅 Artificial Intelligence 🤖 and DevOps ♾️
-- ⚡ Fun fact: I am a hobbyist photographer 📸 and an automobile enthusiast 🏎 and a backyard mechanic 
+- ⚡ Fun fact: I am a hobbyist photographer 📸 an automobile enthusiast 🏎 and a backyard mechanic 
 - 🌈 I try to incorporate the best practices of the automotive world in all of my projects.
 
 ### 📱 Connect with me:
